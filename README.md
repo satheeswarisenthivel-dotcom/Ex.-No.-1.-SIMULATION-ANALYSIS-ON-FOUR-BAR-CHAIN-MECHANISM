@@ -53,8 +53,9 @@
 
 
 ## Output:
-![WhatsApp Image 2025-12-28 at 1 15 25 PM](https://github.com/user-attachments/assets/69c61707-28fe-4bfc-9d9f-d5b907cfaccb)
-<img width="1906" height="1003" alt="empd ex1" src="https://github.com/user-attachments/assets/e9110514-8b24-4902-8979-9159b79448eb" />
+<img width="1920" height="1080" alt="Screenshot (190)" src="https://github.com/user-attachments/assets/71ade1d9-f3df-417a-9a57-ca4afb1e5a52" />
+<img width="1920" height="1080" alt="Screenshot (193)" src="https://github.com/user-attachments/assets/42e5fc9b-7c5b-47b4-a141-837a37cbada4" />
+<img width="1920" height="1080" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/b1d72d1e-1e4b-4a54-9167-58d04befaf3a" />
 
 
 ### Name: S.SATHEESWARI
